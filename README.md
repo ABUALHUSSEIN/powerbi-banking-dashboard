@@ -32,7 +32,7 @@ The **transactions dataset** is very large and could not be uploaded directly to
 ## 📸 Highlights
 
 **Power BI Dashboard:**  
-![Dashboard](Screenshots/dashboard_overview.png)  
+![Dashboard](https://raw.githubusercontent.com/ABUALHUSSEIN/powerbi-banking-dashboard/refs/heads/main/screenshots/USER.png)  
 
 **Qafza Hackathon Certificate:**  
 ![Certificate](https://raw.githubusercontent.com/ABUALHUSSEIN/powerbi-banking-dashboard/refs/heads/main/screenshots/Certificate.png)
