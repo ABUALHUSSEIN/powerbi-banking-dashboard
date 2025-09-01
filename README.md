@@ -35,7 +35,7 @@ The **transactions dataset** is very large and could not be uploaded directly to
 ![Dashboard](Screenshots/dashboard_overview.png)  
 
 **Qafza Hackathon Certificate:**  
-![Certificate](Screenshots/certificate.png)  
+![Certificate]([Screenshots/certificate.png](https://raw.githubusercontent.com/ABUALHUSSEIN/powerbi-banking-dashboard/refs/heads/main/screenshots/Certificate.png))  
 ## 👩‍💻 About Me  
 I’m **ANWAR A.N.ABUALHUSSEIN from Gaza 🇵🇸**, passionate about **Data Analytics & Data Science**.  
 This project was part of my participation in the **Qafza Hackathon**, where I challenged myself to learn, build, and present despite the difficult circumstances.  
