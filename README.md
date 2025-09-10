@@ -38,7 +38,7 @@ The **transactions dataset** is very large and could not be uploaded directly to
 ![Certificate](https://raw.githubusercontent.com/ABUALHUSSEIN/powerbi-banking-dashboard/refs/heads/main/screenshots/Certificate.png)
 
 ## 🎥 Project Demo
-[Watch the video](https://github.com/USERNAME/REPO/blob/main/demo.mp4)
+[Watch the video](https://github.com/ABUALHUSSEIN/powerbi-banking-dashboard/blob/main/Project%20Demo.mp4)
 
 ## 👩‍💻 About Me  
 I’m **ANWAR A.N.ABUALHUSSEIN from Gaza 🇵🇸**, passionate about **Data Analytics & Data Science**.  
